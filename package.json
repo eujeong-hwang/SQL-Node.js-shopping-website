@@ -6,7 +6,6 @@
     "iconv-lite": "^0.6.3",
     "joi": "^17.4.2",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.0.8",
     "mysql2": "^2.3.0",
     "node-gyp": "^8.2.0",
     "sequelize": "^6.6.5"
